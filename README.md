@@ -1,2 +1,9 @@
-# springboot-angular
-create design angular and spring-boot for portal berita
+# springboot-angular #
+
+Membuat portal berita front-end angular dan back-end menggunakan spring-boot.
+
+### Angular-CLI ###
+
+
+
+### Spring-boot ###
